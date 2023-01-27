@@ -17,4 +17,4 @@ Create a superhero hunter app using only vanilla javascript.
   * You can view a list of your favourite super heros in the favourites page and can remove a super hero from this list by selecting the respective option
 
 
-
+***Hosted Url Link***(https://vercel.com/saikumarchenna/superhero-hunter)
